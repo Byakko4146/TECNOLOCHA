@@ -2015,9 +2015,177 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-10 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-10 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-06-10 22:31:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/redstone/crafting/redstone_relay": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/festive_spool": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-10 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-06-10 22:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-10 22:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-10 22:31:45 +0000"
     },
     "done": true
   },
@@ -2051,21 +2219,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-10 22:31:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-06-10 22:31:34 +0000"
     },
     "done": true
   },
@@ -2075,27 +2231,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
-    "criteria": {
-      "has_burning_blossom": "2025-06-10 22:35:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-10 22:31:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-10 22:31:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-06-10 22:31:34 +0000"
     },
     "done": true
   },
@@ -2105,63 +2243,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-06-10 22:31:45 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-10 22:31:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-10 22:31:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-10 22:32:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-10 22:32:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
     },
     "done": true
   },
@@ -2177,99 +2267,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
-    "criteria": {
-      "has_black_terracotta": "2025-06-10 22:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-06-10 22:40:39 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig": {
-    "criteria": {
-      "has_porkchop": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-10 22:39:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_timer": {
-    "criteria": {
-      "has_item": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "createaddition:recipes/redstone/crafting/redstone_relay": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/cooked_rice_with_porkchop": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-06-10 22:31:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:temples": {
-    "criteria": {
-      "in_temple_nether_wasteland": "2025-06-10 22:31:08 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-10 22:31:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
     },
     "done": true
   },
@@ -2285,39 +2285,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-06-10 22:31:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
     },
     "done": true
   },
@@ -2327,57 +2297,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/redstone": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/gold_dash_bolt_from_ingots_gold_stonecutting": {
     "criteria": {
       "has_ingots_gold": "2025-06-10 22:31:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-06-10 22:31:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-10 22:31:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-06-10 22:31:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
-    "criteria": {
-      "has_item": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "createaddition:recipes/misc/crafting/capacitor_1": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-10 22:32:07 +0000"
-    },
-    "done": true
-  },
-  "createaddition:recipes/misc/crafting/capacitor_2": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-10 22:32:07 +0000"
     },
     "done": true
   },
@@ -2411,27 +2333,105 @@
     },
     "done": true
   },
-  "createaddition:recipes/misc/crafting/festive_spool": {
-    "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-06-10 22:31:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-10 22:31:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
-      "has_redstone": "2025-06-10 22:31:34 +0000"
+      "has_black_terracotta": "2025-06-10 22:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-10 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_1": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-10 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_2": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-10 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-10 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-06-10 22:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 22:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-10 22:39:28 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-06-10 22:40:39 +0000"
     },
     "done": true
   },
