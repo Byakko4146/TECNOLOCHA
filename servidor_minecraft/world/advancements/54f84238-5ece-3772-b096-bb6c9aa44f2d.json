@@ -3598,6 +3598,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-06-11 02:27:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-11 02:06:51 +0000"
@@ -3916,6 +3922,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-06-11 02:44:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-06-11 02:07:06 +0000"
@@ -3979,6 +3991,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-11 02:06:51 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-06-11 02:46:04 +0000"
     },
     "done": true
   },
@@ -4303,6 +4321,12 @@
   "create:water_supply": {
     "criteria": {
       "0": "2025-06-11 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-06-11 02:27:06 +0000"
     },
     "done": true
   },

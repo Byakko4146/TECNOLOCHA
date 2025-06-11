@@ -794,3 +794,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Jun2025 01:38:41.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28, l='ServerLevel[bliet]', x=1064.08, y=83.00, z=-399.85] died, message: 'Farmer was slain by Husk'
 [11Jun2025 01:57:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Bonfire Lit]
 [11Jun2025 02:12:23.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Bonk!]
+[11Jun2025 02:37:53.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 was slain by Husk
+[11Jun2025 02:37:53.481] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Byakko4146 with unique ID travelersbackpack.standard_11.06.2025-02.37.53.dat
+[11Jun2025 02:46:08.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Plant Food]
