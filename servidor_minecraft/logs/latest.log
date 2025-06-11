@@ -791,3 +791,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Jun2025 01:06:28.161] [Server thread/INFO] [owo/]: Sending server config values to client
 [11Jun2025 01:06:28.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
 [11Jun2025 01:06:29.035] [Server thread/INFO] [owo/]: Receiving client config
+[11Jun2025 01:38:41.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28, l='ServerLevel[bliet]', x=1064.08, y=83.00, z=-399.85] died, message: 'Farmer was slain by Husk'
+[11Jun2025 01:57:25.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Bonfire Lit]

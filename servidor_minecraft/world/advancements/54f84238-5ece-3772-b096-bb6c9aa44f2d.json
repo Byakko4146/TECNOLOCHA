@@ -35,6 +35,7 @@
       "withered_abyss": "2025-06-10 20:42:01 +0000",
       "undergrowth": "2025-06-10 22:30:03 +0000",
       "lush_savanna": "2025-06-10 20:15:03 +0000",
+      "old_growth_woodland": "2025-06-11 01:26:54 +0000",
       "crystalline_chasm": "2025-06-10 20:46:16 +0000",
       "lush_desert": "2025-06-10 20:19:30 +0000",
       "rocky_rainforest": "2025-06-10 20:14:29 +0000"
@@ -43,7 +44,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:desert": "2025-06-10 20:15:13 +0000"
+      "minecraft:desert": "2025-06-10 20:15:13 +0000",
+      "minecraft:stony_shore": "2025-06-11 01:29:42 +0000"
     },
     "done": false
   },
@@ -3516,9 +3518,615 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/zinc_dot_bolt_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-11 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-06-11 01:57:25 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-06-11 01:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-11 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-11 01:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_block": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-06-11 01:32:01 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_brass_chain_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-11 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-06-11 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-11 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-11 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-11 01:24:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/zinc_flat_bolt_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-11 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-11 01:31:22 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_cross_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/misc/crafting/kinetics/encased_chain_cogwheel": {
     "criteria": {
       "has_item": "2025-06-11 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_dash_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/zinc_dash_bolt_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/zinc_floor_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-06-11 01:57:23 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_flat_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_dot_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_floor_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/zinc_cross_bolt_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_zinc_chain_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/building_blocks/crafting/palettes/copycat_board": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-06-11 01:35:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-11 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-06-11 01:58:12 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-06-11 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-11 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-11 01:56:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-11 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-11 01:53:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-11 01:24:44 +0000"
     },
     "done": true
   },
