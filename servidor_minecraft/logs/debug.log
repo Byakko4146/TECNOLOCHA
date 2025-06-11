@@ -8719,3 +8719,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Jun2025 01:11:43.973] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 80
 [11Jun2025 01:11:43.974] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@744c49ec, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@744c49ec, b=81, e=89}, net.minecraft.world.CompoundContainer@7978dbb6=InventoryMapping{i=net.minecraft.world.CompoundContainer@7978dbb6, c=net.minecraft.world.inventory.ChestMenu@744c49ec, b=0, e=53}}
 [11Jun2025 01:11:43.974] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@744c49ec, b=54, e=80}
+[11Jun2025 01:16:07.140] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$d8a194cac038469fb0181cb59170fc97 (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
+[11Jun2025 01:16:08.685] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Jun2025 01:16:08.687] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save bliet
+[11Jun2025 01:21:08.262] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Jun2025 01:21:08.263] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save bliet
