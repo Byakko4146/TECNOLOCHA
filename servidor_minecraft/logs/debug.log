@@ -8477,3 +8477,13 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [12Jun2025 04:24:13.645] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 41
 [12Jun2025 04:24:13.645] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4716b597, b=54, e=80}, net.minecraft.world.CompoundContainer@9230841=InventoryMapping{i=net.minecraft.world.CompoundContainer@9230841, c=net.minecraft.world.inventory.ChestMenu@4716b597, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4716b597, b=81, e=89}}
 [12Jun2025 04:24:13.645] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@9230841, c=net.minecraft.world.inventory.ChestMenu@4716b597, b=0, e=53}
+[12Jun2025 04:26:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 was slain by Zombie
+[12Jun2025 04:26:10.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved wrongly!
+[12Jun2025 04:26:17.997] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -205, 67, 933, minecraft:overworld
+[12Jun2025 04:26:25.024] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[12Jun2025 04:27:29.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4558, l='ServerLevel[waaaaa]', x=-269.27, y=67.31, z=922.40] died, message: 'Nitwit tried to swim in lava'
+[12Jun2025 04:29:56.729] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/5389, l='ServerLevel[waaaaa]', x=-268.61, y=67.33, z=921.72] died, message: 'Nitwit tried to swim in lava'
+[12Jun2025 04:31:25.010] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[12Jun2025 04:32:34.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 was slain by aaaaaaaaa
+[12Jun2025 04:32:49.782] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -275, 69, 922, minecraft:overworld
+[12Jun2025 04:36:03.605] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=13, y=-48, z=1024}
