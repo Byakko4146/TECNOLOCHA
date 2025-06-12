@@ -3294,6 +3294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 04:39:40 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/food/porkchop_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-12 04:28:42 +0000"
