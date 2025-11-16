@@ -1,0 +1,148 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "darkbosses:info_bomd_bosses": {
+    "criteria": {
+      "info_bomd_bosses": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "darkbosses:info_vanilla_bosses": {
+    "criteria": {
+      "info_vanilla_bosses": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "loot_n_explore:equipment/root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "formidulus:root": {
+    "criteria": {
+      "tick": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "darkbosses:root": {
+    "criteria": {
+      "darkbosses_info_extras": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "loot_n_explore:exploration/root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-11-14 18:03:53 -0300"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-11-14 18:03:54 -0300",
+      "in_mite_fortress": "2025-11-14 18:03:54 -0300"
+    },
+    "done": false
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-11-14 18:05:22 -0300"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-11-14 18:05:22 -0300"
+    },
+    "done": true
+  },
+  "rpg_series:spell_cast_priest_wand": {
+    "criteria": {
+      "cast": "2025-11-14 18:05:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-11-14 18:05:50 -0300"
+    },
+    "done": false
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-11-14 18:06:20 -0300"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-11-14 18:06:20 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
